@@ -165,7 +165,7 @@ footer {
 @media screen and (max-width: 1025px) {
 
     .nav-left h1 {
-        font-size: 1.5rem;
+        font-size: 2.4rem !important;
     }
 
     .main {
